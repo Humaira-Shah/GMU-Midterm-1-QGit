@@ -1,9 +1,7 @@
-#	File: hw2statex.py
+#	File: midterm3b.py
 #	Student: Humaira Shah
-#	Assignment: Robot does leg flexes sinusoidally with peak-to-peak of 0.2 meters
-#			at a rate of 1Hz
 #
-#	Comments: File is modification of hubo-simple-demo-python.py
+#	Comments: File is modification of HW2 submission which is modification of hubo-simple-demo-python.py
 #		from github.com/hubo 
 #
 #
